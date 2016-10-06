@@ -1,0 +1,54 @@
+
+
+1. How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I can find errors quickly and save my time also. We can also remember where we made mistakes previously or recently.
+
+
+
+2. How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Viewing history of a file reminds us where we have done mistakes in newer ones. Its actually like a backup, if you get lost.
+
+
+
+3. What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    When we are manually creating commits, we know what we did in that session in our own words which is easy to understand. Automatically commits uses more space and keeps record of simple changes we made in our file.
+ 
+
+
+4. Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Using one commit to save multiple files is easy task and time saving. Elsewhere commit and saving separate files becomes tedious job for developer. So Git has advantage for saving multiple files in one commit.
+
+
+
+
+5. How can you use the commands git log and git diff to view the history of files?
+
+    “git diff” is used to view addition and reduction of the code lines in two files i.e one is new file and other is a previous version of the file.
+
+    “git log” is used to view commits, commits IDs, Author and Date on which it was modified.
+
+
+
+
+6. How might using version control make you more confident to make changes that
+could break something?
+
+    Version control helps me to take risks with my project. The risks means innovate my projects with new things. For example, using Git i can do changes without losing my data of the project.
+
+
+
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use Git for saving previous version of my projects, adding commits to every changes i make in the project and repository files from one computer to other.
+
+
