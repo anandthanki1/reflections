@@ -4,3 +4,6 @@ I want to use remote repository when i am working on combine projects with other
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 When combine project are on remote repository, every members of team are editing the project. So it is important that we import the changes to local repository by pulling changes manually.  
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+The forks are only used on Github to copy ones repository to my repository. The clone is used between Local repositories and also between Github and local repository. The branches are only used in local repository to describe new features or updating the original repository.
