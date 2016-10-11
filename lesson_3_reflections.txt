@@ -11,3 +11,5 @@ The forks are only used on Github to copy ones repository to my repository. The 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 We can access all remote commits offline upto last known state.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+We can use Dropbox or manual editing by sending files via mails, but that would be hard and tedious. Git and Github would be more easier since it allows automatic manual track versions.
