@@ -13,3 +13,7 @@ We can access all remote commits offline upto last known state.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 We can use Dropbox or manual editing by sending files via mails, but that would be hard and tedious. Git and Github would be more easier since it allows automatic manual track versions.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You would want to make changes in a separate branch when you don't want to mess with the master branch. Benefits for separate branch: collaboration is promoted.
